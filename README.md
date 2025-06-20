@@ -82,7 +82,7 @@ In **Power Query**, the following transformations were applied:
 ### 📷 Dashboard Preview
  
 👇  
-![Dashboard Preview](LINK_HERE)
+![Dashboard Preview](https://github.com/vinayraghu1c/F_and_P_Sales_Analysis_Excel/blob/main/Dashboard_Image.png)
 
 
 ---
@@ -103,5 +103,5 @@ Let me know if you'd like to collaborate, suggest improvements, or just talk das
 - LinkedIn: https://www.linkedin.com/in/vinay-raghuwanshi
 
 ---
-
+# By Vinay Raghuwanshi
 
