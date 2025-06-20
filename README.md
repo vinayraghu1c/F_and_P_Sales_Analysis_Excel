@@ -82,18 +82,17 @@ In **Power Query**, the following transformations were applied:
 ### 📷 Dashboard Preview
  
 👇  
-![Dashboard Preview](https://github.com/vinayraghu1c/F_and_P_Sales_Analysis_Excel/blob/main/Dashboard_Image.png)
+![Dashboard Preview](https://github.com/vinayraghu1c/F_and_P_Sales_Analysis_Excel/blob/main/Dashboard_Preview.png)
 
 
 ---
 
 This project was built from scratch with care — from data wrangling to dashboard styling — as part of my journey to master **data analysis using only Excel**.  
 Excel 2013 doesn’t support some modern features, so I handled:
-- **Manual sorting** for month/day order
 - Custom logic to simulate correlation insights
 - Workarounds for slicer behavior and formatting
 
-Let me know if you'd like to collaborate, suggest improvements, or just talk dashboards 😊
+Let me know if you'd like to collaborate, suggest improvements, or just talk dashboards 😊.
 
 ---
 
@@ -103,5 +102,5 @@ Let me know if you'd like to collaborate, suggest improvements, or just talk das
 - LinkedIn: https://www.linkedin.com/in/vinay-raghuwanshi
 
 ---
-# By Vinay Raghuwanshi
+# - By Vinay Raghuwanshi
 
